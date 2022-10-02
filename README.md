@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Douglas1777
 
 - 🌱 Estudando javaScritp/Node.js
-- 😄 Pronouns: Ele
+
 
 <div align="center">
   <a href="https://github.com/douglas177">
