@@ -33,5 +33,5 @@
   ![Snake animation](https://github.com/douglas1777/douglas1777/blob/output/github-contribution-grid-snake.svg)
   
    
-   <h3>A estrada é sua, e somente sua. Outros podem andar ao seu lado, mas ninguém pode andar por você..</h3>
+   <h3>A estrada é sua e somente sua, outros podem andar ao seu lado, mas ninguém pode andar por você...</h3>
   </div>
