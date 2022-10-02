@@ -11,12 +11,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Douglas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Douglas-java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/143/143687.png">
   <img align="center" alt="Douglas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RDouglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Douglas-Node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
   <img align="right" alt="Douglas-pic" height="100" style="border-radius:50%;" src="https://lh3.googleusercontent.com/JyzC0fAABPsbvnUezRLnQWS4FbhXg3AYZSnjgisXOQb7BLQTxhS0NAPIL7cHu1XZ6IqnBtjvXqJCtLDf4q6l0eG3voinXm1IIttVq0OEDwlUW0AkCVBCRTKXVtvOmdLh36Y1BougyOEorYvmblBQlGo7waNiLPiK6MLmiZ1dz0CnooMdMVg5cDXia8Y6mfpdoheTkwEtCTdexBTyz5Y7rdPrqrhlwgOGGnrFB-tUu58syOmm8pbf63FziiAFSX2oK3tB17CXizEUZimfAu-tDQro0dKy2564K8xuEAF8PNjINF78O5YvCpuXTCS670mLQJSwAs25Jrrs3hoa7hm7yKHT229bZv2YuYQcoeIqPvijvRDvKcDIzrLsfxD0bnVGaMvtF3Y-Fgf3BIkbC8xzCnr72F1CdB5AkMra0ZSqndwg8-t72C1rKg8BCufmjqjstejhkKddOmBdaR-Xrr8dtoFWlJHxeGXYD7xNUpxXfJvXElMiwnOOCACzhvGl7ShZyaNtSory7oymEyzkC4qIxoJW265qEs9Xr2vIzsKfP5lE32LSQtUZKc6F7Byw7jLylTKqBG2MsUBvn_-Bw_ZSwa6CPJDhnwz3XF1vzrUB00DkCF0v159wmt27r5Yt4Hkh6iuwN1rGl-YQvHInUJKfCgmNHsQUsh9Q4rRRIIk6uTxRXeaBUQjg2l7jgkEY1sZskwmXuKUq5_8sqhN99gSX6BOvkpsKGgcgeIPcqWNYAgH5Kkylwz19C8MjxrwxLGt4wjdvUERlumU3PeHL6YgOTvcmYnnrX76yyQ=w640-h360-no?authuser=0">
   
 
