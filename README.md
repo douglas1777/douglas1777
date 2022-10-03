@@ -20,7 +20,8 @@
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Douglas-Node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
-  
+  <img align="right" alt="Douglas-pic" height="200" " src="<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">">
+  </div>
   
   
 
@@ -38,7 +39,3 @@
    
    <h3>A estrada é sua e somente sua, outros podem andar ao seu lado, mas ninguém pode andar por você...</h3>
   </div>
-  <div align="center"> 
-<p>Este é o meu garotão.</p>
-<img align="center" alt="Douglas-pic" height="200" " src="https://lh3.googleusercontent.com/JyzC0fAABPsbvnUezRLnQWS4FbhXg3AYZSnjgisXOQb7BLQTxhS0NAPIL7cHu1XZ6IqnBtjvXqJCtLDf4q6l0eG3voinXm1IIttVq0OEDwlUW0AkCVBCRTKXVtvOmdLh36Y1BougyOEorYvmblBQlGo7waNiLPiK6MLmiZ1dz0CnooMdMVg5cDXia8Y6mfpdoheTkwEtCTdexBTyz5Y7rdPrqrhlwgOGGnrFB-tUu58syOmm8pbf63FziiAFSX2oK3tB17CXizEUZimfAu-tDQro0dKy2564K8xuEAF8PNjINF78O5YvCpuXTCS670mLQJSwAs25Jrrs3hoa7hm7yKHT229bZv2YuYQcoeIqPvijvRDvKcDIzrLsfxD0bnVGaMvtF3Y-Fgf3BIkbC8xzCnr72F1CdB5AkMra0ZSqndwg8-t72C1rKg8BCufmjqjstejhkKddOmBdaR-Xrr8dtoFWlJHxeGXYD7xNUpxXfJvXElMiwnOOCACzhvGl7ShZyaNtSory7oymEyzkC4qIxoJW265qEs9Xr2vIzsKfP5lE32LSQtUZKc6F7Byw7jLylTKqBG2MsUBvn_-Bw_ZSwa6CPJDhnwz3XF1vzrUB00DkCF0v159wmt27r5Yt4Hkh6iuwN1rGl-YQvHInUJKfCgmNHsQUsh9Q4rRRIIk6uTxRXeaBUQjg2l7jgkEY1sZskwmXuKUq5_8sqhN99gSX6BOvkpsKGgcgeIPcqWNYAgH5Kkylwz19C8MjxrwxLGt4wjdvUERlumU3PeHL6YgOTvcmYnnrX76yyQ=w640-h360-no?authuser=0">
-</div>
