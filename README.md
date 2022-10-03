@@ -1,7 +1,9 @@
-## <h3>Olá! Eu sou o Douglas, sou um analsita de sistemas de formação e atualmente sou um desenvolvedor Back-end Jr em formação pela Cubos Academy.</h3>
+<h3>Olá! Eu sou o Douglas, sou um analsita de sistemas de formação e atualmente sou um desenvolvedor Back-end Jr em formação pela Cubos Academy.</h3>
 
+## 
 
 - 🌱 Estudando javaScritp/Node.js
+## 
 
 
 <div align="center">
