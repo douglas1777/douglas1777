@@ -1,4 +1,4 @@
-<h3>Olá! Eu sou o Douglas, sou um analista de sistemas de formação e atualmente sou um desenvolvedor Back-end Jr em formação pela Cubos Academy.</h3>
+<h3>Olá! Eu sou o Douglas, analista de sistemas de formação e atualmente  desenvolvedor Back-end Jr em formação pela Cubos Academy.</h3>
 
 ## 
 
