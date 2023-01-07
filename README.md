@@ -2,7 +2,7 @@
 
 ## 
 
-- 🌱 Estudando javaScritp/Node.js
+- 🌱 Estudando javaScritp/Node.js/API REST.
 ## 
 
 
