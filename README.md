@@ -6,12 +6,7 @@
 ## 
 
 
-<div align="center">
-  <a href="https://github.com/douglas1777">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas1777&layout=compact&langs_count=7&theme=radical"/>
- 
-</div>
+
   
   <div style="display: inline_block" align ="center"><br>  
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
