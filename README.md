@@ -1,12 +1,14 @@
-<h3>Olá! Eu sou o Douglas, analista de sistemas de formação e atualmente  desenvolvedor Back-end Jr em formação pela Cubos Academy.</h3>
+  <div style="display: inline_block" align ="center">
+<h3>Olá! Eu sou o Douglas, analista de sistemas<br> de formação e atualmente  desenvolvedor Back-end Jr em <br>formação pela Cubos Academy.</h3>
+</div>
 
 ## 
 
-- 🌱 Estudando javaScritp/Node.js/API REST.
-## 
+<div align = "center">- 🌱 Estudando javaScritp/Node.js/API REST.</div>
 
-
-
+  <div style="display: inline_block" align ="center">
+<img align="center" alt="Douglas-pic" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/26/93/a8/2693a8de43adf177b30f1ac3fb3b14e2.gif">
+</div>
   
   <div style="display: inline_block" align ="center"><br>  
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -17,11 +19,12 @@
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Douglas-Node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
-  <img align="right" alt="Douglas-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/26/93/a8/2693a8de43adf177b30f1ac3fb3b14e2.gif"><br>
+ 
+  <br>
   </div>
  
  
-##
+
 
 
 
