@@ -7,7 +7,7 @@
 <div align = "center">- 🌱 Estudando javaScritp/Node.js/API REST.</div>
 
   <div style="display: inline_block" align ="center">
-<img align="center" alt="Douglas-pic" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/26/93/a8/2693a8de43adf177b30f1ac3fb3b14e2.gif">
+<img align="center" alt="Douglas-pic" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
 </div>
   
   <div style="display: inline_block" align ="center"><br>  
