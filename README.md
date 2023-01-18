@@ -1,33 +1,13 @@
   <div style="display: inline_block" align ="center">
 <h3>Olá! Meu nome é Douglas, analista de sistemas<br> de formação e atualmente  desenvolvedor Back-end Jr em <br>formação pela @cubosAcademy.</h3>
+
 </div>
 
 ## 
 
 <div align = "center">- 🌱 Estudando javaScritp|Node.js|API REST|PostgreSQL.</div>
 
-##
-
-<div align = "center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true" />
-</picture>
-<div>
-
-##
-
-  <div style="display: inline_block" align ="center">
-<img align="center" alt="Douglas-pic" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
-</div>
-
-##
-  
-  <div style="display: inline_block" align ="center"><br>  
+<div style="display: inline_block" align ="center"><br>  
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Douglas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Douglas-java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/143/143687.png">
@@ -36,9 +16,25 @@
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Douglas-Node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
+  
+  
+  ##
  
   <br>
+ 
+
+
+[![Douglas GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/douglas1777/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas1777&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/douglas1777/github-readme-stats)
+
+
+##
+
+
+
+##
   
+   
   ## 
   
   
