@@ -4,11 +4,28 @@
 
 ## 
 
-<div align = "center">- 🌱 Estudando javaScritp/Node.js/API REST.</div>
+<div align = "center">- 🌱 Estudando javaScritp|Node.js|API REST|PostgreSQL.</div>
+
+##
+
+<div align = "center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true" />
+</picture>
+<div>
+
+##
 
   <div style="display: inline_block" align ="center">
 <img align="center" alt="Douglas-pic" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
 </div>
+
+##
   
   <div style="display: inline_block" align ="center"><br>  
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -21,15 +38,21 @@
   <img align="center" alt="Douglas-Node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
  
   <br>
+  
+  ## 
+  
+  
   </div>
  
    ![Snake animation](https://github.com/douglas1777/douglas1777/blob/output/github-contribution-grid-snake.svg)
   
+  
+  ##
    
    <h3>A estrada é sua e somente sua, outros podem andar ao seu lado, mas ninguém pode andar por você...</h3>
 
 
-
+##
 
   
   <div style="display: inline_block" align ="center"> 
