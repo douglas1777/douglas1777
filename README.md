@@ -1,5 +1,5 @@
   <div style="display: inline_block" align ="center">
-<h3>Olá! Meu nome é Douglas, analista de sistemas<br> de formação e atualmente  desenvolvedor Back-end Jr em <br>formação pela @cubosAcademy.<br>
+<h3>Olá! Meu nome é Douglas, analista de sistemas<br> de formação pela Universidade Anhembi Morumbi e atualmente  desenvolvedor Back-end Jr em <br>formação pela @cubosAcademy.<br>
   
   </h3>
 
