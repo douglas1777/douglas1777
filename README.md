@@ -42,8 +42,7 @@
  
 
 
-[![Douglas GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=douglas1777&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/douglas1777/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas1777&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/douglas1777/github-readme-stats)
+
 
 
 ##
